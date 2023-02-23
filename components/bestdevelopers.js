@@ -12,7 +12,9 @@ function Bestdevelopers() {
           <Image
             src={steps}
             alt="steps"
-            className="lg:w-[100%] lg:h-[100%] md:w-[80%] md:h-[80%] sm:w-[60%] sm:h-[60%] "
+            height={0}
+            width={0}
+            className="lg:w-[100%] lg:h-[100%] md:w-[80%] md:h-[80%] sm:w-[60%] sm:h-[60%]"
           />
         </div>
         <div className="lg:w-[90%] lg:mt-12 md:w-[100%] sm:w-[105.8%] lg:ml-[5%]">
@@ -28,6 +30,8 @@ function Bestdevelopers() {
             <Image
               src={profile_check}
               alt="profile_check"
+              height={0}
+              width={0}
               className="lg:w-[48px] lg:h-[48px] md:w-[40px] md:h-[40px] sm:w-[40px] sm:h-[40px]"
             />
             <div className="font-serif lg:text-[20px] lg:ml-5 lg:mt-2 md:text-[20px] md:ml-5 md:mt-2 sm:text-[18px] sm:ml-5  sm:py-2 lg:w-[100%] md:w-[100%] sm:w-[100%]">
@@ -38,6 +42,8 @@ function Bestdevelopers() {
             <Image
               src={exclusive}
               alt="exclusive"
+              height={0}
+              width={0}
               className="lg:w-[48px] lg:h-[48px] md:w-[40px] md:h-[40px] sm:w-[40px] sm:h-[40px]"
             />
             <div className="font-serif lg:text-[20px] lg:ml-5 lg:mt-2 md:text-[20px] md:ml-5 md:mt-2 sm:text-[16px] sm:ml-5 sm:mt-  sm:w-[150%] md:w-[100%] lg:w-[100%">
@@ -48,6 +54,8 @@ function Bestdevelopers() {
             <Image
               src={income}
               alt="income"
+              height={0}
+              width={0}
               className="lg:w-[48px] lg:h-[48px] md:w-[40px] md:h-[40px] sm:w-[40px] sm:h-[40px]"
             />
             <div className="font-serif lg:text-[20px] lg:ml-5 lg:mt-2 md:text-[20px] md:ml-5 md:mt-2 sm:text-[16px] sm:ml-5  sm:-w[200%]">
