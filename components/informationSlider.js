@@ -97,8 +97,9 @@ export default function InformationSlider() {
             <Image
               className="h-[40px] "
               src={company[slideIndex].name}
-              width={"0"}
-              height={"0"}
+              width={500}
+              height={500}
+              alt="info img"
             ></Image>
           </div>
         ))}
