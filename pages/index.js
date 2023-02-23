@@ -46,7 +46,7 @@ export default function Home() {
       <Deeply />
       <Service />
       <Career />
-      {/* <Turing /> */}
+      <Turing />
       {/* <Businesses /> */}
       <Developers />
       {/* <Bestdevelopers /> */}
