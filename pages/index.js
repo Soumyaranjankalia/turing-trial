@@ -47,7 +47,7 @@ export default function Home() {
       <Service />
       <Career />
       <Turing />
-      {/* <Businesses /> */}
+      <Businesses />
       <Developers />
       {/* <Bestdevelopers /> */}
       <PeopleTuring />
