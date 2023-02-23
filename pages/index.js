@@ -49,7 +49,7 @@ export default function Home() {
       <Turing />
       <Businesses />
       <Developers />
-      {/* <Bestdevelopers /> */}
+      <Bestdevelopers />
       <PeopleTuring />
       <InformationSlider />
       <RemoteDevelopre />
